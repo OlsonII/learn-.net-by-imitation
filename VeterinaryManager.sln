@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinaryManager.API", "VeterinaryManager.API\VeterinaryManager.API.csproj", "{FCE15BEF-D7C5-40C9-9FD5-F04871824BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinaryManager.Domain", "VeterinaryManager.Domain\VeterinaryManager.Domain.csproj", "{AF71BDCB-9212-4F87-A560-594665E31260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinaryManager.Application", "VeterinaryManager.Application\VeterinaryManager.Application.csproj", "{282C07DF-664E-4CF7-82D9-EDC7EFDE45AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinaryManager.Infrastructure", "VeterinaryManager.Infrastructure\VeterinaryManager.Infrastructure.csproj", "{E33BBCED-23E3-4708-8857-18D3EBBE50BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE15BEF-D7C5-40C9-9FD5-F04871824BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE15BEF-D7C5-40C9-9FD5-F04871824BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE15BEF-D7C5-40C9-9FD5-F04871824BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE15BEF-D7C5-40C9-9FD5-F04871824BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF71BDCB-9212-4F87-A560-594665E31260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF71BDCB-9212-4F87-A560-594665E31260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF71BDCB-9212-4F87-A560-594665E31260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF71BDCB-9212-4F87-A560-594665E31260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282C07DF-664E-4CF7-82D9-EDC7EFDE45AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282C07DF-664E-4CF7-82D9-EDC7EFDE45AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282C07DF-664E-4CF7-82D9-EDC7EFDE45AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282C07DF-664E-4CF7-82D9-EDC7EFDE45AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33BBCED-23E3-4708-8857-18D3EBBE50BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33BBCED-23E3-4708-8857-18D3EBBE50BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33BBCED-23E3-4708-8857-18D3EBBE50BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33BBCED-23E3-4708-8857-18D3EBBE50BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

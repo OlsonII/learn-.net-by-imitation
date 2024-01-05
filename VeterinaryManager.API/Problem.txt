@@ -1,0 +1,25 @@
+﻿************** Welcome to the hell my friend. ***********************************
+
+This project will allow you practice core concept for backend software developer and this was developed to allow you learn 
+by imitation, knowing the basic and research the unknown, understanding how it works and making questions about. 
+
+Is not enough that it works, the most important is know how. 
+
+From here you are master, owner and lord of this project and please use it as you please
+
+********************* Veterinary Manager ********************************
+
+This project wil be a veterinary manager with the next features
+
+Clients
+Register Clients to know who are the pets owners
+
+Doctors
+Register doctors to know who are attending the medical appointments
+
+Pet
+Register pets to give to it the medical services, every pet belong to their owner
+
+Services
+The veterinary offer two services, medical appointments and aesthetic services. These services can has the next status
+Programed, OnDate, Lose, Canceled and Completed and every service has a price that is calculated based on the pet size.
